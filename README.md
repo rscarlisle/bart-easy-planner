@@ -1,4 +1,7 @@
 # BART Easy Planner
+
+![bart_easy_planner 2017-06-06 at 12 53 54 pm](https://user-images.githubusercontent.com/6508354/26849076-a71d6bc6-4ab7-11e7-907a-2e430029d349.png)
+
 A responsive web application that allows the user to select a departure and arrival train station, and see a list of trains, times, and durations. Application defaults to offline-first functioality. If the application is offline, it uses default data. If online, it downloads the latest data.
 
 * create a project folder and open project zip-file into it
